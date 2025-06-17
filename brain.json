@@ -1,0 +1,175 @@
+{
+  "memory": {
+    "name": null
+  },
+  "knowledge": [
+    {
+      "input": ["hello", "hi", "hey", "good morning", "good afternoon", "good evening"],
+      "output": [
+        "Hello! How can I help you today?",
+        "Hi there! What’s on your mind?",
+        "Hey! Nice to see you."
+      ]
+    },
+    {
+      "input": ["bye", "goodbye", "see you", "farewell", "talk to you later"],
+      "output": [
+        "Goodbye! Have a great day!",
+        "See you later! Take care.",
+        "Farewell! Come back anytime."
+      ]
+    },
+    {
+      "input": ["how are you", "how are you doing", "how’s it going"],
+      "output": [
+        "I’m doing well, thank you! And you?",
+        "I’m fine, thanks for asking. How about you?",
+        "All good here! How are you feeling?"
+      ]
+    },
+    {
+      "input": ["i’m fine", "i’m good", "i’m okay", "doing well"],
+      "output": [
+        "That’s great to hear!",
+        "Glad to know you’re doing well.",
+        "Awesome! Let me know if you need anything."
+      ]
+    },
+    {
+      "input": ["what’s your name", "who are you", "your name"],
+      "output": [
+        "I’m your friendly AI assistant. What’s your name?",
+        "You can call me AI Assistant. How should I address you?",
+        "I go by AI Assistant. And you are?"
+      ]
+    },
+    {
+      "input": ["my name is", "i am", "call me"],
+      "output": [
+        "Nice to meet you, {name}!",
+        "Pleasure to meet you, {name}!",
+        "Glad to meet you, {name}!"
+      ]
+    },
+    {
+      "input": ["thank you", "thanks", "thx", "thank you so much"],
+      "output": [
+        "You’re welcome!",
+        "No problem!",
+        "My pleasure!"
+      ]
+    },
+    {
+      "input": ["sorry", "i’m sorry", "pardon me"],
+      "output": [
+        "No worries!",
+        "It’s okay, don’t worry about it.",
+        "All good!"
+      ]
+    },
+    {
+      "input": ["help", "can you help me", "i need help"],
+      "output": [
+        "Sure, what do you need?",
+        "How can I assist you?",
+        "I’m here to help. Tell me more."
+      ]
+    },
+    {
+      "input": ["what time is it", "current time", "tell me the time"],
+      "output": [
+        "It’s now {time}.",
+        "The current time is {time}.",
+        "Right now it’s {time}."
+      ]
+    },
+    {
+      "input": ["what’s the weather", "weather", "how’s the weather"],
+      "output": [
+        "I’m not connected to live data, but you can check your local forecast.",
+        "Sorry, I can’t fetch weather right now.",
+        "Please check a weather app for the latest conditions."
+      ]
+    },
+    {
+      "input": ["i’m bored", "bored", "nothing to do"],
+      "output": [
+        "Would you like me to tell a joke or suggest a game?",
+        "How about learning something new? I can teach you a fun fact.",
+        "Maybe we can play a word game. Interested?"
+      ]
+    },
+    {
+      "input": ["tell me a joke", "joke", "make me laugh"],
+      "output": [
+        "Why did the computer show up at work late? It had a hard drive!",
+        "Why do programmers prefer dark mode? Because light attracts bugs!",
+        "I would tell you a UDP joke, but you might not get it."
+      ]
+    },
+    {
+      "input": ["i’m sad", "sad", "feeling down"],
+      "output": [
+        "I’m sorry you’re feeling sad. I’m here for you.",
+        "It’s okay to feel sad sometimes. Want to talk about it?",
+        "I hope things get better soon. Let me know if I can help."
+      ]
+    },
+    {
+      "input": ["i’m happy", "happy", "feeling great"],
+      "output": [
+        "That’s wonderful to hear!",
+        "I’m glad you’re feeling happy!",
+        "Keep that positive energy going!"
+      ]
+    },
+    {
+      "input": ["what can you do", "your capabilities", "what do you do"],
+      "output": [
+        "I can chat, answer questions, and learn new things from you.",
+        "I’m designed to assist with information and conversation.",
+        "I can help you learn, plan, and explore ideas."
+      ]
+    },
+    {
+      "input": ["who created you", "your creator", "who made you"],
+      "output": [
+        "I was created by a collaborative team of developers and researchers.",
+        "My origins trace back to an open-source AI project.",
+        "I’m the result of many hours of coding by talented engineers."
+      ]
+    },
+    {
+      "input": ["i love you", "love you", "you’re great"],
+      "output": [
+        "That’s sweet of you to say!",
+        "I appreciate your kindness!",
+        "Thank you! I’m here to help."
+      ]
+    },
+    {
+      "input": ["good night", "night", "sleep well"],
+      "output": [
+        "Good night! Sleep well.",
+        "Sweet dreams!",
+        "Rest well, talk tomorrow!"
+      ]
+    },
+    {
+      "input": ["good morning", "morning", "rise and shine"],
+      "output": [
+        "Good morning! Have a great day!",
+        "Morning! Ready to seize the day?",
+        "Hello! Hope you slept well."
+      ]
+    },
+    {
+      "input": ["let’s talk about", "i want to discuss"],
+      "output": [
+        "Sure, what topic interests you?",
+        "I’m ready to talk. Tell me more.",
+        "What would you like to discuss?"
+      ]
+    }
+  ]
+}
